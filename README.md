@@ -1,1 +1,6 @@
-Tornado Rabbitmq
+### Tornado Rabbitmq
+
+```bash
+pip install tornado
+```
+
